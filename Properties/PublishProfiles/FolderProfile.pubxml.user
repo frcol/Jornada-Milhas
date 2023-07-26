@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PublishSites\TestPublish</_PublishTargetUrl>
+    <History>True|2023-07-21T03:44:43.7152320Z;True|2023-07-21T00:38:23.4124714-03:00;False|2023-07-21T00:38:11.3010305-03:00;True|2023-07-21T00:37:12.9202729-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

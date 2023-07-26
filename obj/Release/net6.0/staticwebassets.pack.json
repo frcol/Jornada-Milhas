@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\1dafa3b5-9d72-42b6-a400-e200453da279.png",
+      "PackagePath": "staticwebassets\\images\\1dafa3b5-9d72-42b6-a400-e200453da279.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\37e16eae-c1da-4d09-b128-7b9315b35a49.png",
+      "PackagePath": "staticwebassets\\images\\37e16eae-c1da-4d09-b128-7b9315b35a49.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\59eb695d-6c55-4cf2-a348-2fdbe9dd3e93.png",
+      "PackagePath": "staticwebassets\\images\\59eb695d-6c55-4cf2-a348-2fdbe9dd3e93.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\661af578-63c1-4ad1-80ef-99e97398fa8a.png",
+      "PackagePath": "staticwebassets\\images\\661af578-63c1-4ad1-80ef-99e97398fa8a.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\858c13db-a008-4d89-895f-8dcfe0428a54.png",
+      "PackagePath": "staticwebassets\\images\\858c13db-a008-4d89-895f-8dcfe0428a54.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\925f2433-dcc7-4ae0-84a9-310dbc843887.png",
+      "PackagePath": "staticwebassets\\images\\925f2433-dcc7-4ae0-84a9-310dbc843887.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\9c4ad19f-d00e-419e-b65a-4ae72f589fd5.png",
+      "PackagePath": "staticwebassets\\images\\9c4ad19f-d00e-419e-b65a-4ae72f589fd5.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\bfeb2235-8f1c-4770-bcff-99c7391f711c.png",
+      "PackagePath": "staticwebassets\\images\\bfeb2235-8f1c-4770-bcff-99c7391f711c.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\d40df767-2533-43fa-b8be-729d2addf6d4.png",
+      "PackagePath": "staticwebassets\\images\\d40df767-2533-43fa-b8be-729d2addf6d4.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\e38e6329-23ab-4135-b1cc-62a6af17f11d.png",
+      "PackagePath": "staticwebassets\\images\\e38e6329-23ab-4135-b1cc-62a6af17f11d.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\images\\images9c4ad19f-d00e-419e-b65a-4ae72f589fd5.png",
+      "PackagePath": "staticwebassets\\images\\images9c4ad19f-d00e-419e-b65a-4ae72f589fd5.png"
+    },
+    {
+      "Id": "D:\\Dados\\.NET\\Alura-JornadaMilhas\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Alura-JornadaMilhas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Alura-JornadaMilhas.props",
+      "PackagePath": "build\\Alura-JornadaMilhas.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Alura-JornadaMilhas.props",
+      "PackagePath": "buildMultiTargeting\\Alura-JornadaMilhas.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Alura-JornadaMilhas.props",
+      "PackagePath": "buildTransitive\\Alura-JornadaMilhas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
